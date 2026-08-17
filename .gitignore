@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+*.csv
+# if you want to include the cleaned dataset, uncomment the line below:
+# !cleaned_credit_risk.csv
