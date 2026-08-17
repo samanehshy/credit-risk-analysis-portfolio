@@ -2,4 +2,4 @@
 __pycache__/
 *.csv
 # if you want to include the cleaned dataset, uncomment the line below:
-# !cleaned_credit_risk.csv
+!cleaned_credit_risk.csv
